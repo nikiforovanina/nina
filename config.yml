@@ -26,7 +26,7 @@ menu:
           url: /tags/
           weight: 5     
         - name: Newsletter
-          url: https://pmichaillat.substack.com
+          url: 
           weight: 4
 
 
@@ -57,7 +57,7 @@ params:
           enabled: true
           title: Nina Nikiforova
           subtitle:  Hey! I'm a second year PhD Econ student at Bocconi Univerisity.I am interested in topics spanning the literature of political economy and political science, such as authoritarianism, collective actions problems, collective memory and others. Before starting my PhD I earned MA in economics from New Economic School in Moscow and BSc and MSc in Geography from Moscow State Univerisy.
-          imageUrl: "/IMAGE.jpg"
+          imageUrl: "/IMAGE1.jpg"
           imageWidth: 150
           imageHeight: 150
           imageTitle: 
